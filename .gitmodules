@@ -1,0 +1,3 @@
+[submodule "src/main/java/gameEngine"]
+	path = src/main/java/gameEngine
+	url = http://github.com/DBall8/GameEngine.git
